@@ -1,0 +1,17 @@
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\Lab2_UP.exe
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\Lab2_UP.deps.json
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\Lab2_UP.runtimeconfig.json
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\Lab2_UP.dll
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\Lab2_UP.pdb
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\bin\Release\net8.0\FTD2XX_NET.dll
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.csproj.AssemblyReference.cache
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.AssemblyInfoInputs.cache
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.AssemblyInfo.cs
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.csproj.CoreCompileInputs.cache
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.csproj.Up2Date
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.dll
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\refint\Lab2_UP.dll
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.pdb
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\Lab2_UP.genruntimeconfig.cache
+D:\Studia\sem5\UP\Lab2\Lab2_UP\Lab2_UP\obj\Release\net8.0\ref\Lab2_UP.dll

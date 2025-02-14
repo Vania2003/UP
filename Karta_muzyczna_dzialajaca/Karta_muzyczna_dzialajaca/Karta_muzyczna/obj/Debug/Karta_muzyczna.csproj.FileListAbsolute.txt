@@ -1,0 +1,56 @@
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe.config
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.pdb
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.AssemblyReference.cache
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.mainForm.resources
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.Properties.Resources.resources
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.GenerateResource.cache
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.CoreCompileInputs.cache
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.exe
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.pdb
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_mu.7E57FB92.Up2Date
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.dll
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.pdb
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\jakli\source\repos\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\jakli\Downloads\Karta_muzyczna_v2\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.AssemblyReference.cache
+C:\Users\jakli\Downloads\Karta_muzyczna_v2\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.exe
+C:\Users\jakli\Downloads\Karta_muzyczna_v2\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.pdb
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.AssemblyReference.cache
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.exe
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.pdb
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe.config
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.pdb
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.dll
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.pdb
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.mainForm.resources
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.Properties.Resources.resources
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.GenerateResource.cache
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.CoreCompileInputs.cache
+C:\Users\jakli\Downloads\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_mu.7E57FB92.Up2Date
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe.config
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.exe
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\Karta_muzyczna.pdb
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.dll
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.pdb
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.mainForm.resources
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.Properties.Resources.resources
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_mu.7E57FB92.Up2Date
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.exe
+C:\Users\Patryk\Desktop\UP\KARTA MUZYCZNA\Karta_muzyczna\Karta_muzyczna\obj\Debug\Karta_muzyczna.pdb
+C:\Users\битлокер\Desktop\Karta_muzyczna_dzialajaca\Karta_muzyczna_dzialajaca\Karta_muzyczna\obj\Debug\Karta_muzyczna.exe
+C:\Users\битлокер\Desktop\Karta_muzyczna_dzialajaca\Karta_muzyczna_dzialajaca\Karta_muzyczna\obj\Debug\Karta_muzyczna.pdb

@@ -1,0 +1,11 @@
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\bin\Release\scanner.exe.config
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\bin\Release\scanner.exe
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\bin\Release\scanner.pdb
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.csproj.AssemblyReference.cache
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\Interop.WIA.dll
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.csproj.ResolveComReference.cache
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.Properties.Resources.resources
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.csproj.GenerateResource.cache
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.csproj.CoreCompileInputs.cache
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.exe
+C:\Users\jaded_tin338\Desktop\studia\UP\scanner\scanner\scanner\obj\Release\scanner.pdb

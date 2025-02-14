@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "me9rpzd+fsA=",
+  "success": true,
+  "projectFilePath": "D:\\STUDIES\\5 semestr\\Urządzenia Pereferyjne\\kody kreskowe\\scaner\\scaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
